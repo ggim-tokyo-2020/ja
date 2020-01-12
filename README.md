@@ -39,6 +39,6 @@ JICA 市ヶ谷ビル内、国際会議場（東京都新宿区）
 視察は政府や国際機関の職員向けです。
 
 # 登録
-[国連 GGIM 防災会議参加登録用紙](registration_ja.docx)
+[国連 GGIM 防災会議参加登録用紙](registration_ja.docx)（Microsoft Word ファイル）
 
 ※本会議では通訳サービスは提供されず、会議での使用言語は英語です。
