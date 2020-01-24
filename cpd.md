@@ -35,7 +35,7 @@
 
 両日とも受講する方は、2枚必要になります。
 
-様式：https://www.cpd-ccesa.org/unit_assent.php
+様式：[https://www.cpd-ccesa.org/unit_assent.php](https://www.cpd-ccesa.org/unit_assent.php)
 
 ### 建設系 CPD ポイント
 
