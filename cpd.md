@@ -1,4 +1,4 @@
-# CPD の申請方法【これは、ドラフトです！】
+# CPD の申請方法
 
 ## 測量系 CPD
 次の４項目を電子メールの本文に記載し、[gsi-ggim-kaigi@gxb.mlit.go.jp](mailto:gsi-ggim-kaigi@gxb.mlit.go.jp)に提出して下さい。
