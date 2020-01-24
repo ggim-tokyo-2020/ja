@@ -1,7 +1,7 @@
 # CPD の申請方法
 
 ## 測量系 CPD
-次の４項目を電子メールの本文に記載し、[gsi-ggim-kaigi@gxb.mlit.go.jp](mailto:gsi-ggim-kaigi@gxb.mlit.go.jp)に提出して下さい。
+次の４項目を電子メールの本文に記載し、gsi-ggim-kaigi#gxb.mlit.go.jp (# は @ に書き換えてください) に提出して下さい。
 
 | 記載項目 | 記載例 |
 ----|---- 
@@ -49,5 +49,5 @@
 ## 問い合わせ先
 国土地理院企画部国際課　電話：029-864-6877　（担当：羽生（はにゅう））
 
-E-mail: [gsi-ggim-kaigi@gxb.mlit.go.jp](mailto:gsi-ggim-kaigi@gxb.mlit.go.jp)
+E-mail: gsi-ggim-kaigi#gxb.mlit.go.jp (# は @ に書き換えてください)
 
