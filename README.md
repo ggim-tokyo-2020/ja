@@ -1,6 +1,9 @@
 ![banner](https://ggim-tokyo-2020.github.io/banner.jpg)
 # 概要情報
 [English](https://ggim-tokyo-2020.github.io)/日本語
+
+## [プログラム](https://ggim-tokyo-2020.github.io/programme.pdf)（2020年2月14日更新）
+
 ## 目的
 
 **知識の共有**や**技術移転**といった**キャパシティビルディング**を目的としています。
