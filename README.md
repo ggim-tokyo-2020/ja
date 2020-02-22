@@ -2,7 +2,7 @@
 # 概要情報
 [English](https://ggim-tokyo-2020.github.io)/日本語
 
-<font color="#ff0000">国連GGIM防災会議は、主要な参加者から新型コロナウィルスの感染拡大を懸念し不参加とする旨のご連絡が複数あったため、延期になりました。</font>
+<font color="#ff0000">国連GGIM防災会議は、主要な参加者から新型コロナウイルスの感染拡大を懸念し不参加とする旨のご連絡が複数あったため、延期になりました。</font>
 
 ## [プログラム](https://ggim-tokyo-2020.github.io/programme.pdf)（2020年2月20日更新）
 
